@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="8px" height="13px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -12 -60 )">
-    <path d="M 7.67792207792208 1.43382352941177  L 2.17142857142857 6.5  L 7.67792207792208 11.5661764705882  C 8.02077922077922 11.8816176470588  8.02077922077922 12.3786764705882  7.67792207792208 12.6941176470588  C 7.33506493506494 13.0095588235294  6.7948051948052 13.0095588235294  6.45194805194805 12.6941176470588  L 0.332467532467536 7.0639705882353  C -0.0103896103896076 6.74852941176471  -0.0103896103896076 6.2514705882353  0.332467532467536 5.93602941176471  L 6.45194805194805 0.305882352941178  C 6.7948051948052 -0.0095588235294102  7.33506493506494 -0.0095588235294102  7.67792207792208 0.305882352941178  C 8.02077922077922 0.621323529411767  8.02077922077922 1.11838235294118  7.67792207792208 1.43382352941177  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 12 60 )" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="374px" height="44px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="-52.3409669211195" cy="68.1433561909691" r="385.419847328244" gradientTransform="matrix(0 -0.388464236918873 1 0 -120.484323112089 47.8107624163604 )" gradientUnits="userSpaceOnUse" id="RadialGradient361">
+      <stop id="Stop362" stop-color="#38c1fc" stop-opacity="0.996078431372549" offset="0" />
+      <stop id="Stop363" stop-color="#3889fe" offset="1" />
+    </radialGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 0 -44 )">
+    <path d="M 0 44  L 374 44  L 374 88  L 0 88  L 0 44  Z " fill-rule="nonzero" fill="url(#RadialGradient361)" stroke="none" />
   </g>
 </svg>
