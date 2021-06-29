@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="374px" height="768px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="-52.3409669211195" cy="431.411308060551" r="2613.326432915" gradientTransform="matrix(0 -1 0.147482473859316 0 -115.966573884773 379.070341139431 )" gradientUnits="userSpaceOnUse" id="RadialGradient380">
-      <stop id="Stop381" stop-color="#38c1fc" stop-opacity="0.996078431372549" offset="0" />
-      <stop id="Stop382" stop-color="#3889fe" offset="1" />
+    <radialGradient cx="-52.3409669211195" cy="431.411308060551" r="2613.326432915" gradientTransform="matrix(0 -1 0.147482473859316 0 -115.966573884773 379.070341139431 )" gradientUnits="userSpaceOnUse" id="RadialGradient391">
+      <stop id="Stop392" stop-color="#38c1fc" stop-opacity="0.996078431372549" offset="0" />
+      <stop id="Stop393" stop-color="#3889fe" offset="1" />
     </radialGradient>
   </defs>
   <g transform="matrix(1 0 0 1 0 -10 )">
-    <path d="M 0 10  L 374 10  L 374 778  L 0 778  L 0 10  Z " fill-rule="nonzero" fill="url(#RadialGradient380)" stroke="none" />
+    <path d="M 0 10  L 374 10  L 374 778  L 0 778  L 0 10  Z " fill-rule="nonzero" fill="url(#RadialGradient391)" stroke="none" />
   </g>
 </svg>
